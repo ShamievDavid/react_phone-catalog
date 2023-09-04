@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.b288c5b4.chunk.css",
-    "main.js": "./static/js/main.5e5bd8ce.chunk.js",
-    "main.js.map": "./static/js/main.5e5bd8ce.chunk.js.map",
+    "main.css": "./static/css/main.75780d53.chunk.css",
+    "main.js": "./static/js/main.d0c6a592.chunk.js",
+    "main.js.map": "./static/js/main.d0c6a592.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.7de58325.chunk.js": "./static/js/2.7de58325.chunk.js",
     "static/js/2.7de58325.chunk.js.map": "./static/js/2.7de58325.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.b288c5b4.chunk.css.map": "./static/css/main.b288c5b4.chunk.css.map",
+    "static/css/main.75780d53.chunk.css.map": "./static/css/main.75780d53.chunk.css.map",
     "static/js/2.7de58325.chunk.js.LICENSE.txt": "./static/js/2.7de58325.chunk.js.LICENSE.txt",
     "static/media/Favourites.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/IconButton.scss": "./static/media/arrowUpWhite.1859e2ff.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.7de58325.chunk.js",
-    "static/css/main.b288c5b4.chunk.css",
-    "static/js/main.5e5bd8ce.chunk.js"
+    "static/css/main.75780d53.chunk.css",
+    "static/js/main.d0c6a592.chunk.js"
   ]
 }
